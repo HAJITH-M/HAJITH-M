@@ -3,6 +3,7 @@
 ## 💫 About Me:
 I'm a proficient Web Developer specializing in creating dynamic React applications, leveraging my expertise in HTML, CSS, Tailwind CSS, and JavaScript. With a keen eye for design as a UI/UX designer, I craft seamless, user-friendly interfaces that enhance user experiences. My passion for innovation drives me to continuously improve and deliver top-notch web solutions.
 
+[![](https://visitcount.itsvg.in/api?id=HAJITH-M&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-hajith-m-b5bb55275) 

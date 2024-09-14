@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohamed Hajith.M] 👋
+# Hi there, I'm Mohamed Hajith.M 👋
 
 ## 💫 About Me:
 I'm a proficient Web Developer specializing in creating dynamic React applications, leveraging my expertise in HTML, CSS, Tailwind CSS, and JavaScript. With a keen eye for design as a UI/UX designer, I craft seamless, user-friendly interfaces that enhance user experiences. My passion for innovation drives me to continuously improve and deliver top-notch web solutions.
